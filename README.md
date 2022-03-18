@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @HshousHe
+- 👋 Hi, I’m @HshousHe 👋 <img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="50" />
+
 - 👀 I’m interested in web node 移动端
 - 🌱 I’m currently learning web
 - 💞️ We study together
