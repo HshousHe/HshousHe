@@ -5,6 +5,7 @@
 - 💞️ We study together
 - 📫 How to reach me shouhmm@gmail.com
 
+![snake](https://raw.githubusercontent.com/mowtwo/mowtwo/e02244409f36f107b2202ca03d5819600c2b6b56/assets/github-contribution-grid-snake.svg)
 <!---
 HshousHe/HshousHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
